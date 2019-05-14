@@ -1,4 +1,4 @@
-# LinkedScrollDemo
+# 第一次将项目打包并在JitPack中生成测试
 ## CSDN 链接
 http://blog.csdn.net/a153614131/article/details/52834415
 
